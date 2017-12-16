@@ -19,7 +19,7 @@ public class TypeOneViewHolder extends TypeAbstractViewHolder {
         super(itemView);
         mIvAvatar = itemView.findViewById(R.id.avatar);
         name = itemView.findViewById(R.id.name);
-        itemView.setBackgroundColor(Color.BLACK);
+        itemView.setBackgroundColor(Color.RED);
 
     }
 
