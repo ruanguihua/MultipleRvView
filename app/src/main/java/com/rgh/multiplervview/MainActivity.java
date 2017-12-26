@@ -16,7 +16,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private ListView lv_main;
-    private String[] title = {"线性布局实现多布局",  "网格布局多布局", "流式布局"};
+    private String[] title = {"线性布局实现多布局",  "网格布局实现多布局", "流式布局"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
